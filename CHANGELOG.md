@@ -1,5 +1,24 @@
 # Changelog
 
+## [2.7.3](https://github.com/Koenkk/zigbee2mqtt/compare/2.7.2...2.7.3) (2026-01-12)
+
+
+### Bug Fixes
+
+* Home Assisant: set state class to `measurement` for `illuminane_raw` https://github.com/Koenkk/zigbee2mqtt/issues/30439 ([3e60f91](https://github.com/Koenkk/zigbee2mqtt/commit/3e60f915ffe1de640690695ccf6536ad235c336e))
+* Home Assistant: mark `load_estimate` as `state_class` `measurement` https://github.com/Koenkk/zigbee-herdsman-converters/issues/11240 ([a32c8ee](https://github.com/Koenkk/zigbee2mqtt/commit/a32c8eec3604a3ad0d16e87edf027581db7f6920))
+* **ignore:** bump @biomejs/biome from 2.3.10 to 2.3.11 in the minor-patch group ([#30511](https://github.com/Koenkk/zigbee2mqtt/issues/30511)) ([ed52c49](https://github.com/Koenkk/zigbee2mqtt/commit/ed52c49e34a200f9adf5deb2065c78fbe8df3189))
+* **ignore:** bump the minor-patch group with 2 updates ([#30617](https://github.com/Koenkk/zigbee2mqtt/issues/30617)) ([1d87d2f](https://github.com/Koenkk/zigbee2mqtt/commit/1d87d2f2349f9eed6351a032645eec075476f148))
+* **ignore:** update zigbee-herdsman to 8.0.2 ([#30480](https://github.com/Koenkk/zigbee2mqtt/issues/30480)) ([1147cf1](https://github.com/Koenkk/zigbee2mqtt/commit/1147cf16dd62dce5863a93983835c46e8e92e95d))
+* **ignore:** update zigbee-herdsman-converters to 25.100.0 ([#30499](https://github.com/Koenkk/zigbee2mqtt/issues/30499)) ([a2b81ab](https://github.com/Koenkk/zigbee2mqtt/commit/a2b81ab89491f8babf40001404969817f19c5b5e))
+* **ignore:** update zigbee-herdsman-converters to 25.101.0 ([#30520](https://github.com/Koenkk/zigbee2mqtt/issues/30520)) ([4313bac](https://github.com/Koenkk/zigbee2mqtt/commit/4313baca09b8476466b8134c551b59f92996b53f))
+* **ignore:** update zigbee-herdsman-converters to 25.102.0 ([#30537](https://github.com/Koenkk/zigbee2mqtt/issues/30537)) ([57245e5](https://github.com/Koenkk/zigbee2mqtt/commit/57245e52343568678a4dace9bf569c05f508decc))
+* **ignore:** update zigbee-herdsman-converters to 25.103.0 ([#30552](https://github.com/Koenkk/zigbee2mqtt/issues/30552)) ([d4522c5](https://github.com/Koenkk/zigbee2mqtt/commit/d4522c53caca86ba3a087fa67839e2ebf5d9deca))
+* **ignore:** update zigbee-herdsman-converters to 25.104.0 ([#30564](https://github.com/Koenkk/zigbee2mqtt/issues/30564)) ([e68403d](https://github.com/Koenkk/zigbee2mqtt/commit/e68403d8d3ac68f2d09df066d1be8db87f2e7977))
+* **ignore:** update zigbee-herdsman-converters to 25.105.0 ([#30605](https://github.com/Koenkk/zigbee2mqtt/issues/30605)) ([29c7571](https://github.com/Koenkk/zigbee2mqtt/commit/29c757145d6ed16a8629b68379cd85fabe45a8f1))
+* **ignore:** update zigbee-herdsman-converters to 25.99.0 ([#30481](https://github.com/Koenkk/zigbee2mqtt/issues/30481)) ([3adf7d5](https://github.com/Koenkk/zigbee2mqtt/commit/3adf7d5d8ec6da3fabbd9f293d5d0bcaef3c9144))
+* Log error before renaming failed to load converters ([#30436](https://github.com/Koenkk/zigbee2mqtt/issues/30436)) ([1eaa2f3](https://github.com/Koenkk/zigbee2mqtt/commit/1eaa2f3e759351bc746dec2ccc57b92cdcf1b5d7))
+
 ## [2.7.2](https://github.com/Koenkk/zigbee2mqtt/compare/2.7.1...2.7.2) (2026-01-01)
 
 
